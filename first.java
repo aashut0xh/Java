@@ -3,6 +3,3 @@ public class first{
         System.out.print("HELLO");
     }
 }
-check
-offical
-nnn
