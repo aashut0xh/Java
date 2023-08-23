@@ -10,7 +10,5 @@ public class input {
         System.out.println("AREA IS GIVEN "+area);
 
     }
-
-
 }
 
