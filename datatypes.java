@@ -1,4 +1,4 @@
-public class ashu{
+public class datatypes{
     public static void main(String[] args) {
         int a=5;
         double b=10;
